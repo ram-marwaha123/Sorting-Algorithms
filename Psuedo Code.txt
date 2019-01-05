@@ -1,0 +1,19 @@
+procedure Quicksort(arr, start, end):
+	if (end > start):
+		pivot = Partition(arr, start, end)
+		Quicksort(arr, start, pivot - 1)
+		Quicksort(arr, pivot + 1, end)
+
+
+// p and q are the indexes for the start and end of the array, respectively
+function Partition(arr, p, q)
+	int pivot = q
+	int i = p - 1
+	for int j = p to pivot - 1:
+		if (arr[j] < arr[pivot]):
+			i++
+			swap(arr[i], arr[j])
+	pivot = j + 1
+	arr.insert(pivot, arr.pop(q))
+	return pivot
+

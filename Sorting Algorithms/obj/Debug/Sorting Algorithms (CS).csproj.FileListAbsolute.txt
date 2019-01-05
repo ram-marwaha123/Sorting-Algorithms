@@ -1,0 +1,7 @@
+C:\Arjun\Visual Studio 2017\Projects\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms (CS).csprojAssemblyReference.cache
+C:\Arjun\Visual Studio 2017\Projects\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms (CS).csproj.CoreCompileInputs.cache
+C:\Arjun\Visual Studio 2017\Projects\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe.config
+C:\Arjun\Visual Studio 2017\Projects\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe
+C:\Arjun\Visual Studio 2017\Projects\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.pdb
+C:\Arjun\Visual Studio 2017\Projects\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.exe
+C:\Arjun\Visual Studio 2017\Projects\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.pdb
